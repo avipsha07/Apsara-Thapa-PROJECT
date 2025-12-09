@@ -32,7 +32,7 @@ Called repeatedly in the main loop.
 How to Run the Project
 
 Install Python 3.
-Open a terminal in the project folder.
-Run the command:
+Open a terminal.
+Run the command.
 
 
